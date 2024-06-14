@@ -1,4 +1,4 @@
-atabases:
+databases:
   - name: mysitedb
     plan: free
     databaseName: droow
